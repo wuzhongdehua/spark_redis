@@ -10,7 +10,7 @@ Spark-Redis also provides Spark-Streaming support.
 ## Minimal requirements
 You'll need the the following to use Spark-Redis:
 
- - Apache Spark v1.4.0
+ - Apache Spark v1.6.0-cdh5.7.0
  - Scala v2.10.4
  - Jedis v2.7
  - Redis v2.8.12 or v3.0.3
